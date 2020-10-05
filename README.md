@@ -5,4 +5,4 @@ In this Search Bar user can search movie, select theater according to movie, cho
 
 Note - add node_modules [bootstrap] to see the project.
 
-### This project is done while learning
+### This project was done while learning
